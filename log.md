@@ -13,3 +13,9 @@
 
 # new today
 
+### Friday
+
+today 
+new 
+for 
+work
